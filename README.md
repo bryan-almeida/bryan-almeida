@@ -4,6 +4,7 @@
   <a href="https://github.com/bryan-almeida/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=bryan-almeida&theme=radical&show_icons=true" />
   </a>
+  &nbsp;
   <a href="https://github.com/bryan-almeida/convoychat">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-almeida&theme=radical&layout=compact" />
   </a>
